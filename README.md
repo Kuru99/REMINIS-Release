@@ -5,7 +5,8 @@
 ## ダウンロード
 
 - [Android版をインストール](https://github.com/Kuru99/REMINIS-Release/releases/latest/download/REMINIS-Android.apk)
-- [Windows版をダウンロード](https://github.com/Kuru99/REMINIS-Release/releases/download/v0.9.0-beta/REMINIS-Windows-Setup.exe)
+- [Windows版（インストーラー）をダウンロード](https://github.com/Kuru99/REMINIS-Release/releases/latest/download/REMINIS-Windows-Setup.exe)
+- [Windows版（ZIP版）をダウンロード](https://github.com/Kuru99/REMINIS-Release/releases/latest/download/REMINIS-Windows.zip)
 - [最新版の説明とSHA-256](https://github.com/Kuru99/REMINIS-Release/releases/latest)
 
 ## インストール
@@ -18,7 +19,8 @@ APKを開いてインストールします。初回だけ、ブラウザーか�
 
 ### Windows
 
-リンクをクリック、インストーラーが起動します。
+- **インストーラー版**: ダウンロードした `REMINIS-Windows-Setup.exe` を実行し、画面の指示に従ってインストールしてください。
+- **ZIP版**: ZIPをすべて展開し、`REMINIS/REMINIS.exe` を起動します。
 
 ## 注意
 
