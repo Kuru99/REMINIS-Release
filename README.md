@@ -1,4 +1,4 @@
-# REMINIS-beta
+# REMINIS-beta（準備中）
 
 記憶を失った主人公が、栞とともに12の部屋を辿る2DRPGゲームです。
 
